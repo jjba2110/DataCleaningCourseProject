@@ -2,13 +2,21 @@
 Human Activity Recognition Using Smartphones Dataset
 Version 1.1 (modified by James J. Barrecchia on 6/17/2014
 
-This file is the code book for the Data Cleaning Project and defines the output.txt file created as result of my analysis.  It consists of several columns generated during my work, and includes the average column values required to complete the assignment.
+This file is the code book for the Data Cleaning Project and defines the output.txt file created as 
+result of my analysis.  It consists of several columns generated during my work, and includes the 
+average column values required to complete the assignment.
 
-activity - this value was added to the data set by appending the acitivity codes from the y_train and y_test data files to the x_train and x_test data file and then translating them to the descriptive values contained in the activity labels file.
+activity - this value was added to the data set by appending the acitivity codes from the y_train 
+and y_test data files to the x_train and x_test data file and then translating them to the descriptive 
+values contained in the activity labels file.
 
-subjects - this value was added to the data set by appending the subject_train and subject_test files to the x_train and x_test data file.  No further translation was necessary as there were no subject names to correspond to the subject values.
+subjects - this value was added to the data set by appending the subject_train and subject_test files 
+to the x_train and x_test data file.  No further translation was necessary as there were no subject 
+names to correspond to the subject values.
 
-The remaining columns (listed below in order) contain the summarized values from the original data set.  The names were kept the same for easy mapping and validation back to the original, but they contain the summarized values.
+The remaining columns (listed below in order) contain the summarized values from the original data set.  
+The names were kept the same for easy mapping and validation back to the original, but they contain 
+the summarized values.
 
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
