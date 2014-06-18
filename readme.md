@@ -29,4 +29,4 @@ The program completes the following steps:
 
 -The output is then written as a file called output.csv.  I then recreated the assignment in Excel to test that summary data was correct and that my program produces the correct outputs.
 
-<img src="Data_Merge_Diagram.jpg" width="800px" height="800px" />
+<img src="Data_Merge_Diagram.jpg" width="800px" height="600px" />
